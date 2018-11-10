@@ -1,0 +1,23 @@
+Ivanov Ivan 100
+Aliyev Ali 22
+Menshikov Sergey 65
+
+Ivanov Ivan 92
+Aliyev Ali 36
+Menshikov Sergey 42
+
+Ivanov Ivan 56
+Aliyev Ali 32
+Menshikov Sergey 55
+
+Ivanov Ivan 100
+Aliyev Ali 77
+Menshikov Sergey 87
+
+Ivanov Ivan 23
+Aliyev Ali 57
+Menshikov Sergey 100
+
+Ivanov Ivan 0
+Aliyev Ali 10
+Menshikov Sergey 50
